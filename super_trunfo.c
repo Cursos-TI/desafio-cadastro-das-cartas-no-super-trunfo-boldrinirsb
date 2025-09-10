@@ -22,7 +22,7 @@ int main() {
     // --- CADASTRO DA CARTA 1 ---
     printf("--- Cadastro da Carta 1 ---\n");
 
-    printf("Estado (A-H): ");
+    printf("Estado (A-H): "); // Inserir Estado
     scanf(" %c", &estado1);
 
     printf("Codigo da Carta (ex: A01): ");
