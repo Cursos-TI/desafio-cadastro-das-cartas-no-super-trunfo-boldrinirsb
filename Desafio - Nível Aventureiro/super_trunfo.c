@@ -19,7 +19,7 @@ int main() {
     float pib2;
     int pontos_turisticos2;
 
-    // CADASTRO DA CARTA 1
+    // CADASTRO DA CARTA 1 
     printf("--- Cadastro da Carta 1 ---\n");
 
     printf("Estado (A-H): "); // Inserir Estado
@@ -46,7 +46,7 @@ int main() {
     // Pula linha para separar o cadastro
     printf("\n");
 
-    // CADASTRO DA CARTA 2 
+    // CADASTRO DA CARTA 2
     printf("--- Cadastro da Carta 2 ---\n");
 
     printf("Estado (A-H): ");
